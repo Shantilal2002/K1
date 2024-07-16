@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022838340763",
+    "project_id": "kotalin1-cbb8a",
+    "storage_bucket": "kotalin1-cbb8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022838340763:android:5ad2224886b3b4dfdb9a3e",
+        "android_client_info": {
+          "package_name": "com.example.k1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTG8-EwiD_oDrAcKqwDP6ds7o3CW7VhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
